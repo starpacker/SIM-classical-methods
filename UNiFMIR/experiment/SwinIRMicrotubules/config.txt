@@ -1,0 +1,41 @@
+2025-10-17-20:02:30
+
+save: SwinIRMicrotubules
+modelpath: ./experiment/SwinIRMicrotubules/model_best.pt
+
+2025-10-17-20:04:09
+
+task: 1
+patch_size: 128
+scale: 2
+inch: 1
+save: SwinIRMicrotubules
+modelpath: ./experiment/SwinIRMicrotubules/model_best.pt
+
+2025-10-17-20:07:00
+
+task: 1
+patch_size: 128
+scale: 2
+inch: 1
+save: SwinIRMicrotubules
+modelpath: ./experiment/SwinIRMicrotubules/model_best.pt
+
+2025-10-17-20:07:52
+
+task: 1
+patch_size: 128
+scale: 2
+inch: 1
+save: SwinIRMicrotubules
+modelpath: ./experiment/SwinIRMicrotubules/model_best.pt
+
+2025-10-17-20:11:40
+
+task: 1
+patch_size: 128
+scale: 2
+inch: 1
+save: SwinIRMicrotubules
+modelpath: ./experiment/SwinIRMicrotubules/model_best.pt
+
